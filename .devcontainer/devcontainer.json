@@ -1,6 +1,6 @@
 {
-  "image": "solarius/move:latest",
+  "imageee": "solarius/move:latest",
   "features": {
   },
-  "buildeee": { "dockerfile": "Dockerfile" }
+  "build": { "dockerfile": "Dockerfile" }
 }
