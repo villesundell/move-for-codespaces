@@ -1,0 +1,2 @@
+FROM solarius/move:latest
+

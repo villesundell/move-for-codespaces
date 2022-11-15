@@ -1,7 +1,6 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "imagee": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
-    "solarius/move": {
-      "version": "latest"
   }
+  "build": { "dockerfile": "Dockerfile" }
 }
