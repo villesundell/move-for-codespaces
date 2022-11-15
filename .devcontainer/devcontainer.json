@@ -1,6 +1,10 @@
 {
-  "imageee": "solarius/move:latest",
-  "features": {
-  },
-  "build": { "dockerfile": "Dockerfile" }
+  "build": { "dockerfile": "Dockerfile" },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "move.move-analyzer"
+      ]
+    }
+}
 }
