@@ -1,4 +1,8 @@
-A simple project to enable Move development on GitHub Codespaces.
+# Simple Move template project for Codespaces
+
+A simple project template to enable Move development on GitHub Codespaces.
+
+Designed to be forked for new projects.
 
 When inside the codespace, run the following to build everything
 ```
